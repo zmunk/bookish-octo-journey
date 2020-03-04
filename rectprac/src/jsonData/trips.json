@@ -1,0 +1,28 @@
+{
+  "content": {
+
+
+    "trip1":[ 
+      {
+          "from": "Istanbul",
+          "to": "Egypt",
+          "date": "12-10-2018",
+          "Time of arrival": "15:00",
+          "availableSpace": "5kg",
+          "briefDescription": "I am traveling this monday to istanbul",
+          "descriptoin": "If any one wants to deliver anything from istanbul to Egypt please contact me before this weekend"
+      }
+    ],
+    "trip2": [
+      {
+        "from": "New York",
+        "to": "China",
+        "date": "12-10-2018",
+        "Time of arrival": "15:00",
+        "availableSpace": "5kg",
+        "briefDescription": "I am traveling this monday to istanbul",
+        "descriptoin": "If any one wants to deliver anything from istanbul to Egypt please contact me before this weekend"
+      }
+    ]
+  }
+}
